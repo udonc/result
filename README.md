@@ -35,7 +35,7 @@ const divide = (a: number, b: number): Result<number> {
 
 const result = divide(10, 2);
 
-if (!result.success) {
+if (!result.ok) {
   console.error(result.error.message);
 } else {
   console.log(result.value);
