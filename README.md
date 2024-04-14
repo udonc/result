@@ -20,7 +20,6 @@ npx jsr add @udon/result
 
 ## Usage
 
-
 ```typescript
 import { type Result, ok, err } from '@udon/result';
 
