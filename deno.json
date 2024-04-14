@@ -9,6 +9,6 @@
   },
   "imports": { "@std/assert": "jsr:@std/assert@^0.220.1" },
   "publish": {
-    "include": ["LICENSE", "README.md", "*.ts"]
+    "exclude": [".vscode", ".github"]
   }
 }
