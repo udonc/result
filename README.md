@@ -1,5 +1,8 @@
 # @udon/result
 
+[![JSR](https://jsr.io/badges/@udon/result)](https://jsr.io/@udon/result)
+[![JSR Score](https://jsr.io/badges/@udon/result/score)](https://jsr.io/@udon/result)
+
 ## Overview
 
 `@udon/result` is a simple Result type for TypeScript.
